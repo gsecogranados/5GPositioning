@@ -8,7 +8,7 @@ close all
 clear all
 
 %% System parameters
-L=5;                % number of paths (including LOS)
+L=4;                % number of paths (including LOS)
 Rs=100;             % total BW in MHz
 N=10;               % number of subcarriers 
 Nt=32;              % number of TX antennas
